@@ -211,7 +211,7 @@ Deploy each service in the following order:
 Once everything is deployed, you should be able to access the User Interface through `https://weatherapp.local`. Ensure that the `/etc/hosts` file is updated as described in Step 5.
 
 ## Author
-- **Mohamed Eid** - [GitHub Profile](https://github.com/bahyahmed)  
+- **Bahy Ahmed** - [GitHub Profile](https://github.com/bahyahmed)  
   Email: biboacc0101@gmail.com
 
 Feel free to reach out to me for any questions, issues, or contributions.
